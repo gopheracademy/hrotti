@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	. "github.com/gopehracademy/hrotti/broker"
+	. "github.com/gopheracademy/hrotti/broker"
 )
 
 func createConfig() BrokerConfig {

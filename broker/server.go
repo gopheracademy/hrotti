@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"sync"
 
-	. "github.com/alsm/gopheracademy/packets"
 	"github.com/blackbeans/go-uuid"
+	. "github.com/gopheracademy/hrotti/packets"
 	"github.com/hashicorp/go.net/websocket"
 )
 
